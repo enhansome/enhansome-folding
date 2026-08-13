@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Writings (papers, blog posts, etc)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Prequels"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code (software repositories)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "microsoft/nova",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:43:47Z",
+            "owner": "microsoft",
+            "repo": "Nova",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argumentcomputer/arecibo",
+          "description": "This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-03T16:30:55Z",
+            "owner": "lurk-lang",
+            "repo": "arecibo",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Reference implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "microsoft/nova hypernova experimental PR",
+          "description": "Experimental implementation of HyperNova in reference implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:43:47Z",
+            "owner": "microsoft",
+            "repo": "Nova",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pse/folding-schemes",
+          "description": "Experimental arkworks library for accommodating different folding schemes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T08:27:01Z",
+            "owner": "privacy-ethereum",
+            "repo": "sonobe",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snarkify/sirius",
+          "description": "open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-03-24T17:44:51Z",
+            "owner": "snarkify",
+            "repo": "sirius",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supernova",
+          "description": "Experimental implementation of the SuperNova protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-25T00:29:39Z",
+            "owner": "jules",
+            "repo": "supernova",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multifolding-poc",
+          "description": "Experimental implementation of HyperNova",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-23T17:20:06Z",
+            "owner": "privacy-ethereum",
+            "repo": "multifolding-poc",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccs-hack",
+          "description": "a hack implementation of CCS generic implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-05T15:14:24Z",
+            "owner": "thor314",
+            "repo": "ccs-hack",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nova-study",
+          "description": "Implementation of Nova using arkworks-rs just forlearning purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-31T20:20:03Z",
+            "owner": "arnaucube",
+            "repo": "nova-study",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pse/nova experimental ParaNova PR",
+          "description": "Experimental implementation of ParaNova",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-21T07:47:03Z",
+            "owner": "privacy-ethereum",
+            "repo": "Nova",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protogalaxy-poc",
+          "description": "Proof of concept implementation of ProtoGalaxy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-14T08:15:47Z",
+            "owner": "arnaucube",
+            "repo": "protogalaxy-poc",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PayneJoe/PNova",
+          "description": "Our target is to implement a plonkish versioned NOVA, folding multiple Customer Gate/Lookup instances into one respectively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-16T09:17:30Z",
+            "owner": "PayneJoe",
+            "repo": "PNova",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Teaching / experimental implementations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other resources (podcasts, etc)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lurk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-25T00:01:15Z",
+            "owner": "lurk-lab",
+            "repo": "lurk-beta",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova-Scotia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T00:12:45Z",
+            "owner": "nalinbhardwaj",
+            "repo": "Nova-Scotia",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zator: Verified inference of a 512-layer neural network using recursive SNARKs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Circom",
+            "last_commit": "2023-05-05T03:31:23Z",
+            "owner": "lyronctk",
+            "repo": "zator",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova-SHA256",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The implementation utilizes SHA-256 from the bellperson",
+              "description": "library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-03T04:56:34Z",
+                "owner": "filecoin-project",
+                "repo": "bellperson",
+                "stars": 204
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-07T04:30:45Z",
+            "owner": "avras",
+            "repo": "nova-sha256",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2025-11-21T20:52:50Z",
+                "owner": "eniac",
+                "repo": "Reef",
+                "stars": 78
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Applications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:12:07.860Z",
+    "original_repository": "lurk-lab/awesome-folding",
+    "original_repository_sha": "4d096d69e8c2d67e494f14d0255fe8beedebc777",
+    "enhanced_repository": "enhansome/enhansome-folding",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Folding with stars"
+  }
+}
