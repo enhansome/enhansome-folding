@@ -153,19 +153,19 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 ### Reference implementations
 
-* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 860 | 🐛 25 | 🌐 Rust | 📅 2026-08-10
+* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 861 | 🐛 25 | 🌐 Rust | 📅 2026-08-18
 * [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo) ⭐ 93 | 🐛 44 | 🌐 Rust | 📅 2025-03-03: This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
-* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 860 | 🐛 25 | 🌐 Rust | 📅 2026-08-10: Experimental implementation of HyperNova in reference implementation
+* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 861 | 🐛 25 | 🌐 Rust | 📅 2026-08-18: Experimental implementation of HyperNova in reference implementation
 * [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 285 | 🐛 37 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
 * [snarkify/sirius](https://github.com/snarkify/sirius) ⚠️ Archived: open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 * [supernova](https://github.com/jules/supernova) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2023-02-25: Experimental implementation of the SuperNova protocol
-* [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc) ⭐ 83 | 🐛 0 | 🌐 Rust | 📅 2023-08-23: Experimental implementation of HyperNova
+* [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc) ⚠️ Archived: Experimental implementation of HyperNova
 * [ccs-hack](https://github.com/thor314/ccs-hack) ⭐ 51 | 🐛 9 | 🌐 Rust | 📅 2023-07-05: a hack implementation of CCS generic implementation
 * [nova-study](https://github.com/arnaucube/nova-study/) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2023-05-31: Implementation of Nova using arkworks-rs just forlearning purposes.
-* [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11) ⭐ 44 | 🐛 19 | 🌐 Rust | 📅 2023-08-21: Experimental implementation of ParaNova
+* [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11) ⚠️ Archived: Experimental implementation of ParaNova
 * [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc) ⭐ 42 | 🐛 1 | 🌐 Rust | 📅 2023-09-14: Proof of concept implementation of ProtoGalaxy
 * [PayneJoe/PNova](https://github.com/PayneJoe/PNova) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2023-12-16: Our target is to implement a plonkish versioned NOVA, folding multiple Customer Gate/Lookup instances into one respectively.
 
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

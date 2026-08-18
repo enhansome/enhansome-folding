@@ -26,10 +26,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T03:43:47Z",
+            "last_commit": "2026-08-18T19:22:13Z",
             "owner": "microsoft",
             "repo": "Nova",
-            "stars": 860
+            "stars": 861
           }
         },
         {
@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T03:43:47Z",
+            "last_commit": "2026-08-18T19:22:13Z",
             "owner": "microsoft",
             "repo": "Nova",
-            "stars": 860
+            "stars": 861
           }
         },
         {
@@ -75,7 +75,7 @@
             "archived": false,
             "language": "Rust",
             "last_commit": "2026-07-26T08:27:01Z",
-            "owner": "privacy-ethereum",
+            "owner": "ethereum",
             "repo": "sonobe",
             "stars": 285
           }
@@ -114,7 +114,7 @@
           "description": "Experimental implementation of HyperNova",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Rust",
             "last_commit": "2023-08-23T17:20:06Z",
             "owner": "privacy-ethereum",
@@ -156,7 +156,7 @@
           "description": "Experimental implementation of ParaNova",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Rust",
             "last_commit": "2023-08-21T07:47:03Z",
             "owner": "privacy-ethereum",
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:51:31.768Z",
+    "last_updated": "2026-08-18T20:47:09.756Z",
     "original_repository": "lurk-lab/awesome-folding",
     "original_repository_sha": "4d096d69e8c2d67e494f14d0255fe8beedebc777",
     "enhanced_repository": "enhansome/enhansome-folding",
