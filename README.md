@@ -224,7 +224,7 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ## Applications
 
-* [Lurk](https://github.com/argumentcomputer/lurk-rs) ⭐ 451 | 🐛 95 | 🌐 Rust | 📅 2025-02-25
+* [Lurk](https://github.com/argumentcomputer/lurk-rs) ⭐ 452 | 🐛 95 | 🌐 Rust | 📅 2025-02-25
   * Lurk is a Turing-complete programming language for recursive zk-SNARKs. It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
   * [Youtube account](https://www.youtube.com/@argumentcomputer/featured)
   * *Talks*: [ZK Summit 9](https://www.youtube.com/watch?v=iLtv4yauW3s), [ZKProof workshop](https://www.youtube.com/watch?v=wKqiIoOeogo)
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
