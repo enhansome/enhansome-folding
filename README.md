@@ -38,8 +38,8 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
 
 A gentle introduction to Plonk-like arithmetization, lookup arguments and the birth of lookup arguments in the Plonk world.
 
-* [From AIRs to RAPs](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
 * [A Brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf) ⭐ 248 | 🐛 2 | 📅 2025-06-04
+* [From AIRs to RAPs](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
 * [Multiset checks in PLONK and Plookup](https://hackmd.io/@oL_Ko9OQSfeZhjlLHm2XDw/ByFgSDA7D)
 
 #### Spartan
@@ -86,12 +86,12 @@ The papers below show how to use efficient accumulation schemes for certain pred
 
 Classic works on the Nova proof system, including seminal papers and accompanying presentations.
 
+* [Sangria: a Folding Scheme for PLONK](https://github.com/geometryresearch/technical_notes/blob/main/sangria_folding_plonk.pdf) ⭐ 46 | 🐛 0 | 📅 2023-04-17
+  * [Presentation](https://www.youtube.com/watch?v=D7rQbHpxl7Q)
 * [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370)
   * [Presentation](https://www.youtube.com/watch?v=Jj19k2AXH2k)
 * [SuperNova: Proving universal machine executions without universal circuits](https://eprint.iacr.org/2022/1758)
   * [Presentation](https://www.youtube.com/watch?v=BiKMCNKwaec)
-* [Sangria: a Folding Scheme for PLONK](https://github.com/geometryresearch/technical_notes/blob/main/sangria_folding_plonk.pdf) ⭐ 46 | 🐛 0 | 📅 2023-04-17
-  * [Presentation](https://www.youtube.com/watch?v=D7rQbHpxl7Q)
 * [Revisiting the Nova Proof System on a Cycle of Curves](https://eprint.iacr.org/2023/969)
   * [Presentation](https://www.youtube.com/watch?v=l-F5ykQQ4qw)
   * This paper analyzes the security of the Nova proving system when implemented on a cycle of curves.
@@ -153,12 +153,12 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 ### Reference implementations
 
-* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 861 | 🐛 25 | 🌐 Rust | 📅 2026-08-21
+* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 861 | 🐛 25 | 🌐 Rust | 📅 2026-08-24
 * [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo) ⭐ 93 | 🐛 44 | 🌐 Rust | 📅 2025-03-03: This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
-* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 861 | 🐛 25 | 🌐 Rust | 📅 2026-08-21: Experimental implementation of HyperNova in reference implementation
+* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 861 | 🐛 25 | 🌐 Rust | 📅 2026-08-24: Experimental implementation of HyperNova in reference implementation
 * [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 285 | 🐛 38 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
 * [snarkify/sirius](https://github.com/snarkify/sirius) ⚠️ Archived: open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 * [supernova](https://github.com/jules/supernova) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2023-02-25: Experimental implementation of the SuperNova protocol
@@ -173,13 +173,13 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 Code implementations and explorations related to the Nova proof system, including benchmarks, specifications, and experimental versions.
 
+* [Halo2 + Protostar](https://github.com/geometryresearch/protostar) ⭐ 52 | 🐛 2 | 🌐 Rust | 📅 2023-10-10
 * [Nova benchmarks](https://hackmd.io/@oskarth/rJmSaOtZ2)
 * [Nova benchmarks (native SHA256)](https://hackmd.io/u3qM9s_YR1emHZSg3jteQA)
 * [Nova wishlist and next steps](https://hackmd.io/@oskarth/SJRm4zYbn)
 * [Nova-based ZKVM spec](https://hackmd.io/@CPerezz/ByTmhi6yn)
 * [Origami-benchmarks](https://hackmd.io/vn7hWnjCQXCEpQvPDflL8g)
 * [Notes on ProtoGalaxy](https://arnaucube.com/blog/protogalaxy.html)
-* [Halo2 + Protostar](https://github.com/geometryresearch/protostar) ⭐ 52 | 🐛 2 | 🌐 Rust | 📅 2023-10-10
 
 ## Other resources (podcasts, etc)
 
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -6,6 +6,63 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Brief history of lookup arguments",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 517783689,
+                    "language": null,
+                    "last_commit": "2025-06-04T20:16:00Z",
+                    "owner": "ingonyama-zk",
+                    "repo": "papers",
+                    "stars": 248
+                  }
+                }
+              ],
+              "description": "A gentle introduction to Plonk-like arithmetization, lookup arguments and the birth of lookup arguments in the Plonk world.",
+              "node_type": "group",
+              "title": "Arithmetization"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prequels"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sangria: a Folding Scheme for PLONK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602022319,
+                "language": null,
+                "last_commit": "2023-04-17T13:20:50Z",
+                "owner": "geometryxyz",
+                "repo": "technical_notes",
+                "stars": 46
+              }
+            }
+          ],
+          "description": "Classic works on the Nova proof system, including seminal papers and accompanying presentations.",
+          "node_type": "group",
+          "title": "Classic Nova"
+        }
+      ],
+      "title": "Writings (papers, blog posts, etc)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "microsoft/nova",
               "description": null,
@@ -14,7 +71,7 @@
                 "archived": false,
                 "id": 388547709,
                 "language": "Rust",
-                "last_commit": "2026-08-21T05:01:03Z",
+                "last_commit": "2026-08-24T12:40:03Z",
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 861
@@ -51,7 +108,7 @@
                 "archived": false,
                 "id": 388547709,
                 "language": "Rust",
-                "last_commit": "2026-08-21T05:01:03Z",
+                "last_commit": "2026-08-24T12:40:03Z",
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 861
@@ -196,6 +253,28 @@
           "description": null,
           "node_type": "group",
           "title": "Teaching / experimental implementations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Halo2 + Protostar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654019827,
+                "language": "Rust",
+                "last_commit": "2023-10-10T11:33:47Z",
+                "owner": "geometryxyz",
+                "repo": "protostar",
+                "stars": 52
+              }
+            }
+          ],
+          "description": "Code implementations and explorations related to the Nova proof system, including benchmarks, specifications, and experimental versions.",
+          "node_type": "group",
+          "title": "Code Explorations"
         }
       ],
       "title": "Code (software repositories)"
@@ -306,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:46:16.048Z",
+    "last_updated": "2026-08-24T14:31:43.007Z",
     "original_repository": "lurk-lab/awesome-folding",
     "original_repository_id": 647870331,
     "original_repository_sha": "4d096d69e8c2d67e494f14d0255fe8beedebc777",
