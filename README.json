@@ -385,9 +385,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:54:27.997Z",
-    "original_repository": "lurk-lab/awesome-folding",
-    "original_repository_id": 647870331,
+    "last_updated": "2026-08-27T11:37:42.288Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 647870331,
+      "language": null,
+      "last_commit": "2024-08-06T01:26:09Z",
+      "owner": "lurk-lab",
+      "repo": "awesome-folding",
+      "stars": 311
+    },
     "original_repository_sha": "4d096d69e8c2d67e494f14d0255fe8beedebc777",
     "enhanced_repository": "enhansome/enhansome-folding",
     "enhanced_repository_description": null,
