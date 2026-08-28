@@ -20,7 +20,8 @@
                     "owner": "ingonyama-zk",
                     "repo": "papers",
                     "stars": 248
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:37.327Z"
                 }
               ],
               "description": "A gentle introduction to Plonk-like arithmetization, lookup arguments and the birth of lookup arguments in the Plonk world.",
@@ -47,7 +48,8 @@
                 "owner": "geometryxyz",
                 "repo": "technical_notes",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ],
           "description": "Classic works on the Nova proof system, including seminal papers and accompanying presentations.",
@@ -75,7 +77,8 @@
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -90,7 +93,8 @@
                 "owner": "lurk-lang",
                 "repo": "arecibo",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ],
           "description": null,
@@ -112,7 +116,8 @@
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -126,8 +131,9 @@
                 "last_commit": "2026-07-26T08:27:01Z",
                 "owner": "ethereum",
                 "repo": "sonobe",
-                "stars": 285
-              }
+                "stars": 286
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -142,7 +148,8 @@
                 "owner": "snarkify",
                 "repo": "sirius",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -157,7 +164,8 @@
                 "owner": "jules",
                 "repo": "supernova",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -172,7 +180,8 @@
                 "owner": "privacy-ethereum",
                 "repo": "multifolding-poc",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -187,7 +196,8 @@
                 "owner": "thor314",
                 "repo": "ccs-hack",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -202,7 +212,8 @@
                 "owner": "arnaucube",
                 "repo": "nova-study",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -217,7 +228,8 @@
                 "owner": "privacy-ethereum",
                 "repo": "Nova",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -232,7 +244,8 @@
                 "owner": "arnaucube",
                 "repo": "protogalaxy-poc",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             },
             {
               "node_type": "item",
@@ -247,7 +260,8 @@
                 "owner": "PayneJoe",
                 "repo": "PNova",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ],
           "description": null,
@@ -269,7 +283,8 @@
                 "owner": "geometryxyz",
                 "repo": "protostar",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ],
           "description": "Code implementations and explorations related to the Nova proof system, including benchmarks, specifications, and experimental versions.",
@@ -295,7 +310,8 @@
             "owner": "lurk-lab",
             "repo": "lurk-beta",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T04:24:37.327Z"
         },
         {
           "node_type": "item",
@@ -310,7 +326,8 @@
             "owner": "nalinbhardwaj",
             "repo": "Nova-Scotia",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T04:24:37.327Z"
         },
         {
           "node_type": "item",
@@ -325,7 +342,8 @@
             "owner": "lyronctk",
             "repo": "zator",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T04:24:37.327Z"
         },
         {
           "node_type": "item",
@@ -345,7 +363,8 @@
                 "owner": "filecoin-project",
                 "repo": "bellperson",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ],
           "repo_info": {
@@ -356,7 +375,8 @@
             "owner": "avras",
             "repo": "nova-sha256",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T04:24:37.327Z"
         },
         {
           "node_type": "group",
@@ -376,7 +396,8 @@
                 "owner": "eniac",
                 "repo": "Reef",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ]
         }
@@ -385,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:42.288Z",
+    "last_updated": "2026-08-28T04:24:37.327Z",
     "original_repository_info": {
       "archived": false,
       "id": 647870331,

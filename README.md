@@ -159,7 +159,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 ### Teaching / experimental implementations
 
 * [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 861 | 🐛 27 | 🌐 Rust | 📅 2026-08-24: Experimental implementation of HyperNova in reference implementation
-* [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 285 | 🐛 39 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
+* [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 286 | 🐛 39 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
 * [snarkify/sirius](https://github.com/snarkify/sirius) ⚠️ Archived: open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 * [supernova](https://github.com/jules/supernova) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2023-02-25: Experimental implementation of the SuperNova protocol
 * [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc) ⚠️ Archived: Experimental implementation of HyperNova
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
