@@ -153,13 +153,13 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 ### Reference implementations
 
-* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 861 | 🐛 27 | 🌐 Rust | 📅 2026-08-24
+* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 862 | 🐛 27 | 🌐 Rust | 📅 2026-08-24
 * [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo) ⭐ 93 | 🐛 44 | 🌐 Rust | 📅 2025-03-03: This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
-* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 861 | 🐛 27 | 🌐 Rust | 📅 2026-08-24: Experimental implementation of HyperNova in reference implementation
-* [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 286 | 🐛 39 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
+* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 862 | 🐛 27 | 🌐 Rust | 📅 2026-08-24: Experimental implementation of HyperNova in reference implementation
+* [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 285 | 🐛 39 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
 * [snarkify/sirius](https://github.com/snarkify/sirius) ⚠️ Archived: open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 * [supernova](https://github.com/jules/supernova) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2023-02-25: Experimental implementation of the SuperNova protocol
 * [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc) ⚠️ Archived: Experimental implementation of HyperNova
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
