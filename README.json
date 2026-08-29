@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A repo for our research papers :heart:",
+                    "homepage": null,
                     "id": 517783689,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-04T20:16:00Z",
+                    "open_issues": 2,
                     "owner": "ingonyama-zk",
                     "repo": "papers",
-                    "stars": 248
+                    "stars": 248,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:37.327Z"
                 }
@@ -42,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of technical notes from the Geometry research team.",
+                "homepage": null,
                 "id": 602022319,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-17T13:20:50Z",
+                "open_issues": 0,
                 "owner": "geometryxyz",
                 "repo": "technical_notes",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             }
@@ -71,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nova: High-speed recursive zero-knowledge arguments from folding schemes",
+                "homepage": null,
                 "id": 388547709,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:40:03Z",
+                "open_issues": 27,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 862
+                "stars": 862,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -87,12 +102,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An advanced fork of Nova (contact:@huitseeker)",
+                "homepage": "https://lurk-lang.org/",
                 "id": 667552930,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-03-03T16:30:55Z",
+                "open_issues": 44,
                 "owner": "lurk-lang",
                 "repo": "arecibo",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "cryptography",
+                  "nova",
+                  "r1cs",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             }
@@ -110,12 +135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nova: High-speed recursive zero-knowledge arguments from folding schemes",
+                "homepage": null,
                 "id": 388547709,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:40:03Z",
+                "open_issues": 27,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 862
+                "stars": 862,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -126,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental folding schemes library",
+                "homepage": "https://privacy-ethereum.github.io/sonobe-docs/",
                 "id": 678760177,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-26T08:27:01Z",
+                "open_issues": 39,
                 "owner": "ethereum",
                 "repo": "sonobe",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -142,12 +177,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Plonkish folding framework for Incrementally Verifiable Computation (IVC).",
+                "homepage": "https://docs.snarkify.io/sirius-folding/",
                 "id": 633699060,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-03-24T17:44:51Z",
+                "open_issues": 37,
                 "owner": "snarkify",
                 "repo": "sirius",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "cryptography",
+                  "ivc",
+                  "nova",
+                  "proof-system",
+                  "protostar",
+                  "zero-knowledge-proofs",
+                  "zkp"
+                ]
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -158,12 +206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental implementation of the SuperNova protocol. https://eprint.iacr.org/2022/1758",
+                "homepage": null,
                 "id": 590786148,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-25T00:29:39Z",
+                "open_issues": 1,
                 "owner": "jules",
                 "repo": "supernova",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -174,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A PoC repo for a HyperNova impl",
+                "homepage": null,
                 "id": 644741049,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-08-23T17:20:06Z",
+                "open_issues": 0,
                 "owner": "privacy-ethereum",
                 "repo": "multifolding-poc",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -190,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a hack implementation of CCS generic arithmetization, won a prize at Zuzalu hackathon 2023 despite incompleteness",
+                "homepage": null,
                 "id": 639831858,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-07-05T15:14:24Z",
+                "open_issues": 9,
                 "owner": "thor314",
                 "repo": "ccs-hack",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -206,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Nova using arkworks for learning purposes. https://eprint.iacr.org/2021/370.pdf",
+                "homepage": null,
                 "id": 629728198,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-31T20:20:03Z",
+                "open_issues": 0,
                 "owner": "arnaucube",
                 "repo": "nova-study",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -222,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Nova: Recursive SNARKs without trusted setup",
+                "homepage": null,
                 "id": 617849199,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-08-21T07:47:03Z",
+                "open_issues": 19,
                 "owner": "privacy-ethereum",
                 "repo": "Nova",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -238,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ProtoGalaxy folding scheme PoC implementation https://eprint.iacr.org/2023/1106.pdf",
+                "homepage": null,
                 "id": 671680711,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-14T08:15:47Z",
+                "open_issues": 1,
                 "owner": "arnaucube",
                 "repo": "protogalaxy-poc",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             },
@@ -254,12 +332,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plonkish Nova implementation along with advanced features",
+                "homepage": null,
                 "id": 708345433,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-12-16T09:17:30Z",
+                "open_issues": 0,
                 "owner": "PayneJoe",
                 "repo": "PNova",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "folding",
+                  "lookup",
+                  "nova",
+                  "plonk"
+                ]
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             }
@@ -277,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 654019827,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-10T11:33:47Z",
+                "open_issues": 2,
                 "owner": "geometryxyz",
                 "repo": "protostar",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             }
@@ -304,12 +397,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lurk is a Turing-complete programming language for recursive zk-SNARKs. This is the prior, elliptic curve based variant of Lurk (contact: @porcuquine)",
+            "homepage": null,
             "id": 383963627,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-25T00:01:15Z",
+            "open_issues": 95,
             "owner": "lurk-lab",
             "repo": "lurk-beta",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "compiler",
+              "cryptography",
+              "programming-language",
+              "rust",
+              "zero-knowledge",
+              "zk-snarks"
+            ]
           },
           "first_seen": "2026-08-28T04:24:37.327Z"
         },
@@ -320,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Middleware to compile Circom circuits to Nova prover",
+            "homepage": "https://crates.io/crates/nova-scotia",
             "id": 538167259,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-01T00:12:45Z",
+            "open_issues": 15,
             "owner": "nalinbhardwaj",
             "repo": "Nova-Scotia",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:37.327Z"
         },
@@ -336,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Verifying a 512-layer CNN w/ Nova",
+            "homepage": null,
             "id": 586617539,
             "language": "Circom",
+            "license": null,
             "last_commit": "2023-05-05T03:31:23Z",
+            "open_issues": 0,
             "owner": "lyronctk",
             "repo": "zator",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:37.327Z"
         },
@@ -357,24 +472,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zk-SNARK library",
+                "homepage": null,
                 "id": 176679636,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T04:56:34Z",
+                "open_issues": 2,
                 "owner": "filecoin-project",
                 "repo": "bellperson",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Nova-based SHA256 benchmarks",
+            "homepage": null,
             "id": 612323556,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-07T04:30:45Z",
+            "open_issues": 0,
             "owner": "avras",
             "repo": "nova-sha256",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:37.327Z"
         },
@@ -390,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reef: A zkSNARK system for proving that a committed document matches a regex",
+                "homepage": null,
                 "id": 728832045,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-11-21T20:52:50Z",
+                "open_issues": 2,
                 "owner": "eniac",
                 "repo": "Reef",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
             }
@@ -406,15 +536,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:52:02.318Z",
+    "last_updated": "2026-08-29T04:50:54.070Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of zero-knowledge folding schemes",
+      "homepage": null,
       "id": 647870331,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-08-06T01:26:09Z",
+      "open_issues": 9,
       "owner": "lurk-lab",
       "repo": "awesome-folding",
-      "stars": 311
+      "stars": 311,
+      "topics": [
+        "awesome-list",
+        "zero-knowledge",
+        "zk-snarks"
+      ]
     },
     "original_repository_sha": "4d096d69e8c2d67e494f14d0255fe8beedebc777",
     "enhanced_repository": "enhansome/enhansome-folding",
