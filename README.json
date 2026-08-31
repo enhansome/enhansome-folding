@@ -165,7 +165,7 @@
                 "open_issues": 39,
                 "owner": "ethereum",
                 "repo": "sonobe",
-                "stars": 285,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -481,7 +481,7 @@
                 "open_issues": 2,
                 "owner": "filecoin-project",
                 "repo": "bellperson",
-                "stars": 204,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:52:24.327Z",
+    "last_updated": "2026-08-31T23:57:53.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
