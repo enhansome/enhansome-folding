@@ -232,7 +232,7 @@ Code implementations and explorations related to the Nova proof system, includin
   * This repository provides necessary middleware to take generated output of the Circom compiler (R1CS constraints and generated witnesses) and use them with Nova as a prover.
 * [Zator: Verified inference of a 512-layer neural network using recursive SNARKs](https://github.com/lyronctk/zator) ⭐ 173 | 🐛 0 | 🌐 Circom | 📅 2023-05-05
 * [Nova-SHA256](https://github.com/avras/nova-sha256) ⭐ 31 | 🐛 0 | 🌐 Rust | 📅 2025-06-07
-  * The implementation utilizes SHA-256 from the [bellperson](https://github.com/filecoin-project/bellperson) ⭐ 203 | 🐛 2 | 🌐 Rust | 📅 2026-08-03 library
+  * The implementation utilizes SHA-256 from the [bellperson](https://github.com/filecoin-project/bellperson) ⭐ 203 | 🐛 2 | 🌐 Rust | 📅 2026-09-01 library
   * This repository provides a SHA-256 implementation utilizing Nova to repeatedly apply the SHA-256 compression function at each step.
 * [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886)
   * [Github repo](https://github.com/eniac/Reef) ⭐ 78 | 🐛 2 | 🌐 Rust | 📅 2025-11-21
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
