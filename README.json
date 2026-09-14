@@ -162,7 +162,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-07-26T08:27:01Z",
-                "open_issues": 40,
+                "open_issues": 39,
                 "owner": "ethereum",
                 "repo": "sonobe",
                 "stars": 285,
@@ -186,7 +186,7 @@
                 "open_issues": 37,
                 "owner": "snarkify",
                 "repo": "sirius",
-                "stars": 179,
+                "stars": 178,
                 "topics": [
                   "cryptography",
                   "ivc",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:30:10.534Z",
+    "last_updated": "2026-09-14T23:15:11.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
