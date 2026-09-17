@@ -87,7 +87,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-11T20:31:13Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 862,
@@ -141,7 +141,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-11T20:31:13Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 862,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:06:08.412Z",
+    "last_updated": "2026-09-17T22:57:44.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
