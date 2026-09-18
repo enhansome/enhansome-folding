@@ -86,8 +86,8 @@
                 "id": 388547709,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:31:13Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-18T18:54:59Z",
+                "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 862,
@@ -140,8 +140,8 @@
                 "id": 388547709,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:31:13Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-18T18:54:59Z",
+                "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "Nova",
                 "stars": 862,
@@ -165,7 +165,7 @@
                 "open_issues": 39,
                 "owner": "ethereum",
                 "repo": "sonobe",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -481,7 +481,7 @@
                 "open_issues": 2,
                 "owner": "filecoin-project",
                 "repo": "bellperson",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:57:44.501Z",
+    "last_updated": "2026-09-18T22:43:00.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
