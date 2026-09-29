@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:27:38.279Z",
+    "last_updated": "2026-09-29T23:51:08.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
@@ -548,7 +548,7 @@
       "open_issues": 9,
       "owner": "lurk-lab",
       "repo": "awesome-folding",
-      "stars": 311,
+      "stars": 310,
       "topics": [
         "awesome-list",
         "zero-knowledge",
