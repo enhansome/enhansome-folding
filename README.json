@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "A Brief history of lookup arguments",
-                  "description": null,
+                  "description": "ingonyama-zk/papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "Sangria: a Folding Scheme for PLONK",
-              "description": null,
+              "description": "geometryxyz/technical_notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -77,7 +77,7 @@
             {
               "node_type": "item",
               "title": "microsoft/nova",
-              "description": null,
+              "description": "microsoft/Nova",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "Halo2 + Protostar",
-              "description": null,
+              "description": "geometryxyz/protostar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -393,7 +393,7 @@
         {
           "node_type": "item",
           "title": "Lurk",
-          "description": null,
+          "description": "lurk-lab/lurk-beta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "Nova-Scotia",
-          "description": null,
+          "description": "nalinbhardwaj/Nova-Scotia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -442,7 +442,7 @@
         {
           "node_type": "item",
           "title": "Zator: Verified inference of a 512-layer neural network using recursive SNARKs",
-          "description": null,
+          "description": "lyronctk/zator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -463,7 +463,7 @@
         {
           "node_type": "item",
           "title": "Nova-SHA256",
-          "description": null,
+          "description": "avras/nova-sha256",
           "children": [
             {
               "node_type": "item",
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "Github repo",
-              "description": null,
+              "description": "eniac/Reef",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:54:02.751Z",
+    "last_updated": "2026-10-03T04:45:36.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
