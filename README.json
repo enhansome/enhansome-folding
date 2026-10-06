@@ -165,7 +165,7 @@
                 "open_issues": 40,
                 "owner": "ethereum",
                 "repo": "sonobe",
-                "stars": 288,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:22:56.245Z",
+    "last_updated": "2026-10-06T01:21:27.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
@@ -548,7 +548,7 @@
       "open_issues": 9,
       "owner": "lurk-lab",
       "repo": "awesome-folding",
-      "stars": 310,
+      "stars": 311,
       "topics": [
         "awesome-list",
         "zero-knowledge",
