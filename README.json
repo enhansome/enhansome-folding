@@ -111,7 +111,7 @@
                 "open_issues": 44,
                 "owner": "lurk-lang",
                 "repo": "arecibo",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "cryptography",
                   "nova",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:56:13.272Z",
+    "last_updated": "2026-10-08T00:17:19.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
@@ -548,7 +548,7 @@
       "open_issues": 9,
       "owner": "lurk-lab",
       "repo": "awesome-folding",
-      "stars": 311,
+      "stars": 312,
       "topics": [
         "awesome-list",
         "zero-knowledge",

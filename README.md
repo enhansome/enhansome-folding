@@ -154,7 +154,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 ### Reference implementations
 
 * [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 864 | 🐛 27 | 🌐 Rust | 📅 2026-09-18
-* [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo) ⭐ 93 | 🐛 44 | 🌐 Rust | 📅 2025-03-03: This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
+* [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo) ⭐ 94 | 🐛 44 | 🌐 Rust | 📅 2025-03-03: This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
