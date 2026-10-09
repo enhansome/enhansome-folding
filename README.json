@@ -90,7 +90,7 @@
                 "open_issues": 27,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 864,
+                "stars": 865,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -144,7 +144,7 @@
                 "open_issues": 27,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 864,
+                "stars": 865,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -481,7 +481,7 @@
                 "open_issues": 2,
                 "owner": "filecoin-project",
                 "repo": "bellperson",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:17:19.571Z",
+    "last_updated": "2026-10-09T00:31:07.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
