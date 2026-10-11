@@ -153,15 +153,15 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 ### Reference implementations
 
-* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 865 | 🐛 27 | 🌐 Rust | 📅 2026-09-18
+* [microsoft/nova](https://github.com/microsoft/Nova) ⭐ 866 | 🐛 27 | 🌐 Rust | 📅 2026-09-18
 * [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo) ⭐ 94 | 🐛 44 | 🌐 Rust | 📅 2025-03-03: This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
-* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 865 | 🐛 27 | 🌐 Rust | 📅 2026-09-18: Experimental implementation of HyperNova in reference implementation
+* [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175) ⭐ 866 | 🐛 27 | 🌐 Rust | 📅 2026-09-18: Experimental implementation of HyperNova in reference implementation
 * [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/) ⭐ 287 | 🐛 40 | 🌐 Rust | 📅 2026-07-26: Experimental arkworks library for accommodating different folding schemes
 * [snarkify/sirius](https://github.com/snarkify/sirius) ⚠️ Archived: open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
-* [supernova](https://github.com/jules/supernova) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2023-02-25: Experimental implementation of the SuperNova protocol
+* [supernova](https://github.com/jules/supernova) ⭐ 125 | 🐛 1 | 🌐 Rust | 📅 2023-02-25: Experimental implementation of the SuperNova protocol
 * [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc) ⚠️ Archived: Experimental implementation of HyperNova
 * [ccs-hack](https://github.com/thor314/ccs-hack) ⭐ 51 | 🐛 9 | 🌐 Rust | 📅 2023-07-05: a hack implementation of CCS generic implementation
 * [nova-study](https://github.com/arnaucube/nova-study/) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2023-05-31: Implementation of Nova using arkworks-rs just forlearning purposes.
@@ -240,4 +240,4 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
