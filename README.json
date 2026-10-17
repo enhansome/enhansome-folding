@@ -162,7 +162,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-07-26T08:27:01Z",
-                "open_issues": 40,
+                "open_issues": 39,
                 "owner": "ethereum",
                 "repo": "sonobe",
                 "stars": 288,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:56:06.207Z",
+    "last_updated": "2026-10-17T22:29:41.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
