@@ -406,7 +406,7 @@
             "open_issues": 94,
             "owner": "lurk-lab",
             "repo": "lurk-beta",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "compiler",
               "cryptography",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:07:48.489Z",
+    "last_updated": "2026-10-30T00:01:31.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
