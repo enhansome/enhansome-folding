@@ -524,7 +524,7 @@
                 "open_issues": 2,
                 "owner": "eniac",
                 "repo": "Reef",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:55:40.456Z",
+    "last_updated": "2026-10-31T23:31:16.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",

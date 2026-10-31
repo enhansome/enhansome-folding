@@ -235,9 +235,9 @@ Code implementations and explorations related to the Nova proof system, includin
   * The implementation utilizes SHA-256 from the [bellperson](https://github.com/filecoin-project/bellperson) ⭐ 206 | 🐛 2 | 🌐 Rust | 📅 2026-10-02 library
   * This repository provides a SHA-256 implementation utilizing Nova to repeatedly apply the SHA-256 compression function at each step.
 * [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886)
-  * [Github repo](https://github.com/eniac/Reef) ⭐ 78 | 🐛 2 | 🌐 Rust | 📅 2025-11-21
+  * [Github repo](https://github.com/eniac/Reef) ⭐ 79 | 🐛 2 | 🌐 Rust | 📅 2025-11-21
   * A system for generating zero-knowledge proofs that a committed document matches or does not match a regular expression.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
