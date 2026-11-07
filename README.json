@@ -521,7 +521,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2025-11-21T20:52:50Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "eniac",
                 "repo": "Reef",
                 "stars": 79,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:10:51.340Z",
+    "last_updated": "2026-11-07T23:44:55.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
