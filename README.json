@@ -87,10 +87,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-18T18:54:59Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 868,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -141,10 +141,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-18T18:54:59Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 868,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -406,7 +406,7 @@
             "open_issues": 94,
             "owner": "lurk-lab",
             "repo": "lurk-beta",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "compiler",
               "cryptography",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:49:52.002Z",
+    "last_updated": "2026-11-11T00:44:47.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
@@ -548,7 +548,7 @@
       "open_issues": 9,
       "owner": "lurk-lab",
       "repo": "awesome-folding",
-      "stars": 312,
+      "stars": 313,
       "topics": [
         "awesome-list",
         "zero-knowledge",
