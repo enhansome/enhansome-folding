@@ -90,7 +90,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -144,7 +144,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:44:47.318Z",
+    "last_updated": "2026-11-12T01:57:16.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
