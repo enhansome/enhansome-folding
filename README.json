@@ -90,7 +90,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 870,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -144,7 +144,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "Nova",
-                "stars": 870,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:37.327Z"
@@ -406,7 +406,7 @@
             "open_issues": 94,
             "owner": "lurk-lab",
             "repo": "lurk-beta",
-            "stars": 454,
+            "stars": 453,
             "topics": [
               "compiler",
               "cryptography",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:55:59.340Z",
+    "last_updated": "2026-11-20T01:49:36.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
@@ -548,7 +548,7 @@
       "open_issues": 9,
       "owner": "lurk-lab",
       "repo": "awesome-folding",
-      "stars": 313,
+      "stars": 312,
       "topics": [
         "awesome-list",
         "zero-knowledge",
