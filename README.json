@@ -477,8 +477,8 @@
                 "id": 176679636,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T02:17:47Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-25T10:20:50Z",
+                "open_issues": 3,
                 "owner": "filecoin-project",
                 "repo": "bellperson",
                 "stars": 207,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:37:30.140Z",
+    "last_updated": "2026-11-26T02:57:24.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of zero-knowledge folding schemes",
